@@ -3,7 +3,7 @@
 Simple program simulating few spiecies interacting with each other on 2d board projected in console.
 
 Controls:
-    q - next round
+    q - next round </br>
     arrows - change humans direction
     scroll - scroll events list
     w - Alzur shield activation
