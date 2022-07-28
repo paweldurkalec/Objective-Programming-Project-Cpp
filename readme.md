@@ -4,27 +4,27 @@ Simple program simulating few spiecies interacting with each other on 2d board p
 
 Controls:
     q - next round </br>
-    arrows - change humans direction
-    scroll - scroll events list
-    w - Alzur shield activation
-    s - save
-    r - read
-    e - exit
-Save/read file:
-    zapis.txt
-Organisms:
-    H - human
-    W - wolf
-    S - sheep
-    A - antelope
-    Z - turtle
-    L - fox
-    t - grass
-    g - guarana
-    m - dandelion
-    b - pine borscht
-    j - wolf berries
-Organisms spread randomly(human(X/2,Y/2)), number of organisms (including human) at the start cannot be greater than
-    number of given fields (X*Y), otherwise simulation won't run.
+    arrows - change humans direction</br>
+    scroll - scroll events list</br>
+    w - Alzur shield activation</br>
+    s - save</br>
+    r - read</br>
+    e - exit</br>
+Save/read file:</br>
+    zapis.txt</br>
+Organisms:</br>
+    H - human</br>
+    W - wolf</br>
+    S - sheep</br>
+    A - antelope</br>
+    Z - turtle</br>
+    L - fox</br>
+    t - grass</br>
+    g - guarana</br>
+    m - dandelion</br>
+    b - pine borscht</br>
+    j - wolf berries</br>
+Organisms spread randomly(human(X/2,Y/2)), number of organisms (including human) at the start cannot be greater than</br>
+    number of given fields (X*Y), otherwise simulation won't run.</br></br>
 
 April 2021
